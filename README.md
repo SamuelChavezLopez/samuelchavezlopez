@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Foto.jpg](https://i.postimg.cc/6Qtb0t6D/Foto.jpg)](https://postimg.cc/K1p5cXMN)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=TRUE&vCenter=TRUE&repeat=verdadero&random=FALSO&width=435&lines=Hi+I%C2%B4m+Samuel;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+### About me 👋
 
 <!--
 **SamuelChavezLopez/samuelchavezlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
