@@ -1,7 +1,11 @@
-[![Foto.jpg](https://i.postimg.cc/6Qtb0t6D/Foto.jpg)](https://postimg.cc/K1p5cXMN)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=TRUE&vCenter=TRUE&repeat=verdadero&random=FALSO&width=435&lines=Hi+I%C2%B4m+Samuel;Welcome+to+my+profile)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=verdadero&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hi+my+name+is+Samuel;Welcome+to+my+Profile" alt="Typing SVG" /></a>
+
+<p align="center" width="100%">
+    <img width="33%" src="https://i.postimg.cc/QNFJfdgF/FOTO-SAM2.jpg">
+</p>
+
 
 ### About me 👋
 I have had the opportunity to work as a mobile developer where he
