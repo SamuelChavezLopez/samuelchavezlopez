@@ -21,14 +21,8 @@ application performance. I am committed, tenacious and flexible.
 - Teamwork
 
 ### Software
-- Swift
-- Swift UI
-- Core Data
-- Android Studio
-- C#
-- SQL Server
-- Java
-- WebServices
+
+[![My Skills](https://skillicons.dev/icons?i=swift,bitbucket,firebase,cs,mysql,androidstudio,java,sqlite,git,dotnet&perline=5)](https://skillicons.dev)
 
 ### Educación 
 ###### 2014 - 2019
