@@ -14,22 +14,24 @@ using Swift and Java respectively, implementing good practices in my
 code. My purpose is to providing solutions and improving
 application performance. I am committed, tenacious and flexible.
 
+---
+
 ### Competencias
 - Creativity
 - Responsibility
 - Honesty
 - Teamwork
-
+---
 ### Software
-
 [![My Skills](https://skillicons.dev/icons?i=swift,bitbucket,firebase,cs,mysql,androidstudio,java,sqlite,git,dotnet&perline=5)](https://skillicons.dev)
 
-### Educación 
-###### 2014 - 2019
-
-Ingeniería en Sistemas Computacionales - Titulado
 ---
-Tecnológico de Estudios Superiores de Chalco
+### Educación (2014 - 2019) - Titulado
+### Tecnológico de Estudios Superiores de Chalco
+<p align="" width="100%">
+    <img width="33%" src="https://tescha.edomex.gob.mx/sites/tescha.edomex.gob.mx/files/images/Sin%20t%C3%ADtulo-2.jpg">
+</p>
+
 
 
 
